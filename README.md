@@ -12,3 +12,18 @@
 ### 1. 先搭建
 [先搭建](./docs/c1.buildFirst.md)
 
+### 2. 跑基
+
+[runBasic](./docs/c2.runBasic.md)
+
+### 3. ci
+
+[ci](./docs/c3.ci.md)
+
+### 4. 蓝绿灰度...
+
+[c4](./docs/c4.gray.md)
+
+### 5. k8s
+
+[k8s](./docs/c5.k8s.md)
